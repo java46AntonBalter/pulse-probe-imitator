@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "app.amount.patients",
+    "type": "int",
+    "description": "A description for 'app.amount.patients'"
+  },
+  {
+    "name": "app.min.pulse.value",
+    "type": "int",
+    "description": "A description for 'app.min.pulse.value'"
+  },
+  {
+    "name": "app.max.pulse.value",
+    "type": "int",
+    "description": "A description for 'app.max.pulse.value'"
+  },
+  {
+    "name": "app.jump.probability",
+    "type": "int",
+    "description": "A description for 'app.jump.probability'"
+  },
+  {
+    "name": "app.delta.increase.probability",
+    "type": "int",
+    "description": "A description for 'app.delta.increase.probability'"
+  },
+  {
+    "name": "app.jump.multiple",
+    "type": "double",
+    "description": "A description for 'app.jump.multiple'"
+  },
+  {
+    "name": "app.value.multiple",
+    "type": "double",
+    "description": "A description for 'app.value.multiple'"
+  }
+]}
